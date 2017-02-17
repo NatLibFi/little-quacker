@@ -30,8 +30,6 @@
 
 'use strict';
 
-import 'babel-polyfill'; // eslint-disable-line import/no-unassigned-import
-
 /**
 * Check if 'it' quacks like a 'duck'
 * @param {object} it - Object to test

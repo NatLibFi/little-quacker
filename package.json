@@ -33,9 +33,6 @@
 		"travisci": "npm run check-and-build",
 		"publish-to-npm": "npm install && npm run lint && npm test && npm run coverage && npm publish"
 	},
-	"dependencies": {
-		"babel-polyfill": "^6.23.0"
-	},
 	"devDependencies": {
 		"git-scripts": "^0.2.1",
 		"validate-commit": "^2.3.2",
