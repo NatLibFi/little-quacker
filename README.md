@@ -1,4 +1,4 @@
-# Tiny duck typing module for Javascript [![NPM Version](https://img.shields.io/npm/v/little-quacker.svg)](https://npmjs.org/package/little-quacker) [![Build Status](https://travis-ci.org/natlibfi/little-quacker.svg)](https://travis-ci.org/natlibfi/little-quacker) [![Test Coverage](https://codeclimate.com/github/NatLibFi/little-quacker/badges/coverage.svg)](https://codeclimate.com/github/NatLibFi/little-quacker/coverage)
+# Tiny duck typing module for Javascript [![NPM Version](https://img.shields.io/npm/v/little-quacker.svg)](https://npmjs.org/package/little-quacker) [![Build Status](https://travis-ci.org/NatLibFi/little-quacker.svg)](https://travis-ci.org/NatLibFi/little-quacker) [![Test Coverage](https://codeclimate.com/github/NatLibFi/little-quacker/badges/coverage.svg)](https://codeclimate.com/github/NatLibFi/little-quacker/coverage)
 
 Tiny duck typing module for Javascript
 
